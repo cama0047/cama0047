@@ -1,14 +1,13 @@
 
 <h1 align="center">Print(Hi, I'm Camilo Camacho) <a href="https://rapidapi.com" target="_blank"> <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" alt="Github" width="120" height="90"/> </a> </h1>
-<h3 align="center">A passionate Fullstack developer from Canada 🇨🇦</h3>
-<h3 align="center">System engineer with experience in Database and Servers Administration </h3>
-<h3 align="center">Developer of Cross-Platform Applications</h3>
-<h3 align="center">And right know learning about UX/UI.</h3>
+<h3 align="center">A passionate Full-Stack Developer from Canada 🇨🇦</h3>
+<h3 align="center">System engineer with experience with Back-end & Front-end  </h3>
+<h3 align="center">And rightDeveloping Cross-Platform Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cama0047&label=Profile%20views&color=0e75b6&style=flat" alt="cama0047" /> </p>
 
 
-- 🔭 I’m currently working on **PWA**
+- 🔭 I’m currently working on a ** Qtar World cup soccer application **
 
 - 🌱 I’m currently learning **Python, JS & web development**
 
@@ -16,14 +15,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cama0047](https://github.com/cama0047)
 
-- 💬 Ask me about **Back-end❤️**
+- 💬 Ask me about **What ever you want!!**
 
 - 📫 How to reach me **ing.camilo.cv@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/camilocv/](https://www.linkedin.com/in/camilocv/)
 
 - ⚡ Fun fact **I ❤️ Coffee also coding at midnight**
-#### Theres no place like 127.0.0.1
+#### Theres no place like 127.0.0.1 Please use 255.255.255.0
 
 
 
