@@ -7,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cama0047&label=Profile%20views&color=0e75b6&style=flat" alt="cama0047" /> </p>
 
 
+#### Theres no place like 127.0.0.1 Please use 255.255.255.0
+
 - 🔭 I’m currently working on a ** Qtar World cup soccer application **
 
 - 🌱 I’m currently learning **Python, JS & web development**
@@ -22,7 +24,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/camilocv/](https://www.linkedin.com/in/camilocv/)
 
 - ⚡ Fun fact **I ❤️ Coffee also coding at midnight**
-#### Theres no place like 127.0.0.1 Please use 255.255.255.0
+
 
 
 
