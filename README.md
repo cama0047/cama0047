@@ -46,6 +46,11 @@ Team size: 5-10
 ### People on it 
 - [@cama0047](https://www.github.com/cama0047)
 - [@bu3alwa](https://www.github.com/bu3alwa)
+## Tech Stack
+
+**Client:** React, React-Aria, PrimeReact, TailwindCSS
+
+**Server:** Node, Express
 
 # Past proyects
 ## OntarioOneCall Application for excavators and Admins
@@ -72,6 +77,14 @@ The project entailed the creation of multiple developments centered around the a
   ### People on it 
   - [@cama0047](https://www.github.com/cama0047)
   - [@garn0080](https://www.github.com/garn0080)
+
+  ## Tech Stack
+
+**Client:** React, Bootstrap
+
+**Server:** AWS (Lambda, EC2, S3), Node, Python, Docker.
+
+**Cloud:** AWS
 </details>
 
 <details>
