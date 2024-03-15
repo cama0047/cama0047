@@ -1,8 +1,48 @@
 
-<h1 align="center">Print(Hi, I'm Camilo Camacho) <a href="https://rapidapi.com" target="_blank"> <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" alt="Github" width="120" height="90"/> </a> </h1>
-<h3 align="center">A passionate Full-Stack Developer from Canada 🇨🇦</h3>
-<h3 align="center">System engineer with experience with Back-end & Front-end  </h3>
-<h3 align="center">And rightDeveloping Cross-Platform Applications</h3>
+<h1 align="center">Hi, I'm Camilo </h1>
+<h2 align="center">I'm a spanish developer that decided to adventure the coding world </h2>
+<h3 align="center">I have mostly worked in fullstack development but my skills can also extend to devops, and cloud computing.  </h3>
+
+<details>
+
+<summary>About me</summary>
+
+### Current proyect
+Rental Management Solution
+Intro: The rental management platform has been used by multiple equipment rental companies to manage equipment, leases, customers, orders, payments, and hardware keys that can be used to unlock, start and stop heavy duty equipment in the fields with or without Internet connections. The solution supports a super admin dashboard, an admin dashboard (for equipment owner company), and iOS/Android mobile apps for final users. The mobile app users can use their apps to unlock, start, and stop the equipment in the fields with a valid key from the backend from an ongoing lease of the corresponding equipment. Sophisticated RBAC (role-based-access-control) was designed and included in the system to support different types of roles for different equipment owners. A custom theme is supported for different equipment owner on the dashboard and mobile apps. The backend is based on Node.JS in TypeScript, and the frontend is based on React.JS in TypeScript. Mobile apps are developed using Swift & Kotlin. 
+Team size: 5-10
+
+
+### Programming languages that I used
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|   1.1| TypeScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+<details>
+  <summary>Projects</summary>
+  
+</details>
+<details>
+  <summary>Current learning</summary>
+  Amazon Web Services - IaC
+
+
+</details>
+
+<details>
+  <summary>Personal Projects</summary>
+</details>
+
+<details>
+  <summary>Contact Me</summary>
+  Feel free to contact me if you need help, over [Here](mailto:contact.camiloc@gmail.com) 
+</details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cama0047&label=Profile%20views&color=0e75b6&style=flat" alt="cama0047" /> </p>
 
