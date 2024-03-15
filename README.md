@@ -1,10 +1,14 @@
 <h1 align="center">Hi, I'm Camilo </h1>
-<h2 align="center">I'm a spanish developer that decided to adventure the coding world </h2>
+<h2 align="center justify">🌟 Full-stack developer by trade, with a penchant for exploring the thrilling worlds of DevOps and cloud computing </h2>
+> Si puedes imaginarlo puedes programarlo - if you can imagine it you can program it
 <h3 align="center">I have mostly worked in fullstack development but my skills can also extend to devops, and cloud computing.  </h3>
 
 <details>
 
 <summary> 🚀 About Me</summary>
+
+😄 Pronouns: Him/He
+⚡️ Fun fact: I can't live without coffee
 
 ### Programming languages that I used
 
@@ -20,15 +24,14 @@
 <details>
   <summary>Projects</summary>
 
-### Current proyect
-
+# Current proyect
 ## Rental Management Solution
 The rental management platform has been used by multiple equipment rental companies to manage equipment, leases, customers, orders, payments, and hardware keys that can be used to unlock, start and stop heavy duty equipment in the fields with or without Internet connections. The solution supports a super admin dashboard, an admin dashboard (for equipment owner company), and iOS/Android mobile apps for final users. The mobile app users can use their apps to unlock, start, and stop the equipment in the fields with a valid key from the backend from an ongoing lease of the corresponding equipment. Sophisticated RBAC (role-based-access-control) was designed and included in the system to support different types of roles for different equipment owners. A custom theme is supported for different equipment owner on the dashboard and mobile apps. The backend is based on Node.JS in TypeScript, and the frontend is based on React.JS in TypeScript. Mobile apps are developed using Swift & Kotlin. 
 Team size: 5-10
 ### People on it 
 - [@bu3alwa](https://www.github.com/bu3alwa)
 
-### Past proyects
+# Past proyects
 ## OntarioOneCall Application for excavators and Admins
 
 The project encompassed the creation of two applications tailored for Excavators and Administrators, aiming to optimize the excavation permit request and notification process through the utilization of Ontario OneCall services. The project was developed using TypeScript and JavaScript. Both applications were designed with a focus on robustness and scalability. The implementation of RESTful APIs facilitated seamless communication between frontend and backend systems, enabling efficient data exchange and interaction. Also, a significant contribution was the development of Application-to-Person (A2P) notifications. Leveraging the Simple Notification Service (SNS), the system was configured to send notifications to relevant individuals, such as excavators or administrators, regarding permit status updates, approvals, or any other pertinent information.
@@ -43,9 +46,9 @@ The project entailed the creation of multiple developments centered around the a
 
  
 </details>
+
 <details>
   <summary>🌱 Currently learning</summary>
-  Amazon Web Services - IaC
 
   | Item              | Description               |
   |------------------:|---------------------------|
