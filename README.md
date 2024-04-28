@@ -88,7 +88,7 @@ The project entailed the creation of multiple developments centered around the a
 </details>
 
 <details>
-  <summary> 📫 Contact Me</summary>
+   📫 Contact Me
   
   - 📄 Know about my experiences [https://www.linkedin.com/in/camilocv/](https://www.linkedin.com/in/camilocv/)
   - Feel free to reach me if you need help, **contact.camiloc@gmail.com**
