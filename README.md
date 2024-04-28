@@ -2,6 +2,8 @@
 <h2 align="center ">🌟 Full-stack developer by trade, with a penchant for exploring the thrilling worlds of DevOps and cloud computing </h2>
 <h3 color="grey" align="center"> "Si puedes imaginarlo puedes programarlo - if you can imagine it you can program it"</h3>
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <details>
 
 <summary> 🚀 About Me</summary>
@@ -115,3 +117,9 @@ The project entailed the creation of multiple developments centered around the a
   [![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cama0047)](https://github.com/cama0047/github-readme-stats)
 
 </div>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/camilocv
