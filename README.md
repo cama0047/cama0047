@@ -2,7 +2,9 @@
 <h2 align="center ">🌟 Full-stack developer by trade, with a penchant for exploring the thrilling worlds of DevOps and cloud computing </h2>
 <h3 color="grey" align="center"> "Si puedes imaginarlo puedes programarlo - if you can imagine it you can program it"</h3>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+- [![LinkedIn][linkedin-shield]][linkedin-url]
+- [![Portfolio][portfolio-shield]][portfolio-url]
+
 
 <details>
 
@@ -122,4 +124,8 @@ The project entailed the creation of multiple developments centered around the a
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/camilocv
+[linkedin-url]: https://linkedin.com/in/camilocv
+[portfolio-shield]: https://img.shields.io/badge/portfolio-blue?style=for-the-badge&colorB=555
+[portfolio-url]: https://camilocamacho.netlify.app/
+
+
